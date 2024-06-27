@@ -28,5 +28,7 @@ The user's needs are most important because they will be using the system and ha
 what the user wants lets them accept and learn to use the system more easily 
 
 How do you approach designing software? 
+following the buisness requirements of getting the clients needs for the system and knowing the requirements both functional and non-functional
 
-What techniques or strategies would you use in the future to analyze and design a system?
+
+
